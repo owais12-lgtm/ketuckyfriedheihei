@@ -21,4 +21,6 @@ This keyboard has 74 regular keys, 8 programmable macro keys, and 1 switch withi
 | OLED | OLED | 1 | $2.00 | [robu.in](https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/) | Robu |
 | Raspberry Pi Pico | MCU | 1 | $5.00 | [robu.in](https://robu.in/product/raspberry-pi-pico/) | Robu |
 
+# CAD files
 
+https://www.tinkercad.com/things/lyZ20fdyAEX-surprising-snicket
