@@ -1,5 +1,9 @@
 # ketuckyfriedheihei
 
+
+https://github.com/user-attachments/assets/ab107a92-7bb6-4f32-aefd-921b1ff62dd6
+
+
 # about
 
 This keyboard has 74 regular keys, 8 programmable macro keys, and 1 switch within the rotary encoder
